@@ -53,8 +53,4 @@ Autos diesel, nafta o híbridos pueden tener diferentes precios dependiendo del 
 **Transmisión (gear o transmission)**  
 Autos automáticos o manuales pueden tener diferencias de precio según el tipo de comprador.
 
----
 
-# Conclusión
-
-Este dataset es muy útil para entrenar modelos de Machine Learning que permitan **estimar el valor de un auto en el mercado argentino**. Un modelo bien entrenado podría ayudar a concesionarias, vendedores o compradores a estimar el precio real de un vehículo basándose en sus características, reduciendo la incertidumbre en el mercado de autos usados.
